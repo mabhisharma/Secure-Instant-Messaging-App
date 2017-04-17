@@ -1,7 +1,5 @@
 # Final Project 
 ###### Team Members: `Abhishek Sharma`   `Cheng Gongye`
- 
-[TOC]
 
 PS4.pdf contians details of our design.
 ## Prerequisites
