@@ -1,7 +1,3 @@
-# Final Project 
-###### Team Members: `Abhishek Sharma`   `Cheng Gongye`
-
-PS4.pdf contians details of our design.
 ## Prerequisites
 python 2.7
 cryptography
@@ -97,4 +93,3 @@ Exit client:
 quit
 Logging out from the system
 ```
-If you have any questions, please email to both: gongye.c@husky.neu.edu and sharma.abhis@husky.neu.edu Thanks!
